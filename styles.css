@@ -1,0 +1,24 @@
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+  }
+#root {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    box-shadow: 0 0 65px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 50px;
+}  
+
+#mode-select {
+    margin-bottom: 50px;
+}
